@@ -1,0 +1,28 @@
+h1{
+    background-color:black;
+    color:green;
+  }
+  
+  li a:hover{
+      color:red;
+      font-size: medium;
+  }
+  
+  body{
+    font-family: 'Outfit', sans-serif;
+  }
+  ul{
+      list-style-type: none;
+      background-color: burlywood;
+  }
+  li a{
+      text-decoration:none;
+  }
+  input:focus{
+      color:brown;
+      font-size:large;
+  }
+  .shoes img{
+      width:30%;
+      height:100%
+  }
